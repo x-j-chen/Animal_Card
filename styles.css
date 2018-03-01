@@ -43,10 +43,16 @@
   }
 
 
-.ulist {
-    color: pink;
+.ulist span {
+    font-weight: bold;
+    
 }
 
+.ulist {
+    color: pink;
+    list-style: none;
+    
+}
 
 .funfact {
     text-align: center;
