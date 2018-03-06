@@ -13,7 +13,6 @@
 .title {
     font-family: cursive;
     color: gold;
-    border-color: red;
     font-weight: bold;
     font-size: 26pt;
     border-style: solid;
@@ -61,7 +60,7 @@ span {
     font-style: italic
 }
 
-.cardcontent border{
+.cardcontent border {
     margin: 100px auto;
     padding: 10px 20px;
     background-color: beige;
